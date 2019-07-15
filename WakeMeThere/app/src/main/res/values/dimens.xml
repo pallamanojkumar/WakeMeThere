@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="place_autocomplete_powered_by_google_start">10000</dimen>
+</resources>
